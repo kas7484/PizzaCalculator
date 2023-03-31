@@ -1,0 +1,16 @@
+Pizza Servings Calculator GUI Project
+
+This project is a GUI-based program that calculates the number of servings a circular pizza of a certain diameter will make.
+
+Getting Started
+
+To use this program, download the PizzaServingsCalculator.java file and compile it using a Java compiler. Then, run the compiled program to open the GUI. Enter the size of the pizza in inches and click the 'Calculate Servings' button to calculate the number of servings the pizza will make.
+
+Prerequisites
+To run this program, you will need a Java compiler and runtime environment installed on your computer.
+
+Installing
+Download the PizzaServingsCalculator.java file.
+Open a command prompt or terminal and navigate to the directory where the file is located.
+Compile the file using the command javac PizzaServingsCalculator.java.
+Run the compiled program using the command java PizzaServingsCalculator.
